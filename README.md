@@ -1,12 +1,12 @@
-# HALF_ADDER_SUBTRACTOR
-
+# EX 03 : HALF ADDER SUBTRACTOR
+### Date : 29/09/24
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-**Equipments Required:**
+**EQUIPMENTS REQUIRED:**
 
 Hardware – PCs, Cyclone II , USB flasher 
 
@@ -52,8 +52,8 @@ Figure -02 HALF Subtractor
 
  Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
  
-## Developed by:VISHAL M.A
-## RegisterNumber:212222230177
+### Developed by:VISHAL M.A
+### RegisterNumber:212222230177
 
 ```
 module EXP3(a,b,sum,carry,D,Bo);
@@ -75,7 +75,8 @@ endmodule
 
 
 **Output/TIMING Waveform**
-![EXP 3 OUT](https://github.com/user-attachments/assets/487c2dd9-fbbb-4845-97cc-f1dcd42a4b50)
+![EX 3 OUT](https://github.com/user-attachments/assets/36addede-ef57-41e5-9419-f71d1b22c0a6)
+
 
 
 
